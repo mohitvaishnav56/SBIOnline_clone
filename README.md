@@ -32,7 +32,7 @@ To generate a production-ready build, run:
    npm run build
    ```
 ## 🔗 Live Demo
-[Live Preview](https://sbionline-clone.netlify.app/)
+[Live Preview](https://sbi-online-clone.netlify.app/)
 ## 📷 Screenshots
 (Include screenshots of your homepage, login, and register pages)
 ## 🤝 Contribution
