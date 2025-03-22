@@ -59,7 +59,7 @@ function Offers() {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 w-full max-w-6xl p-5">
+      <div className="flex flex-wrap gap-6 justify-center w-full max-w-6xl p-5">
         {data.map((card, index) => (
           <Card3 key={index} icon={card.icon} title={card.title} description={card.description} bg={card.bg} header={card.header} />
         ))}
